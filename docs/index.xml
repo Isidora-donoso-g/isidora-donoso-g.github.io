@@ -1,153 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taller Integrado MID 2021 on Isidora Donoso - Taller MID 2021</title>
-    <link>https://isidora-donoso-g.github.io/docs/</link>
-    <description>Recent content in Taller Integrado MID 2021 on Isidora Donoso - Taller MID 2021</description>
+    <title>Taller Espacio y Ciudad 2021 on Isidora Donoso</title>
+    <link>https://isidora-donoso-g.github.io/taller-ciudad-espacio/docs/</link>
+    <description>Recent content in Taller Espacio y Ciudad 2021 on Isidora Donoso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://isidora-donoso-g.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://isidora-donoso-g.github.io/taller-ciudad-espacio/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ENCARGO 0</title>
-      <link>https://isidora-donoso-g.github.io/docs/encargo-0/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>6- MIDTERM</title>
+      <link>https://isidora-donoso-g.github.io/taller-ciudad-espacio/docs/midterm/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://isidora-donoso-g.github.io/docs/encargo-0/</guid>
-      <description>Biografía y trabajos personales</description>
-    </item>
-    
-    <item>
-      <title>SOFTWARE CREATIVO</title>
-      <link>https://isidora-donoso-g.github.io/docs/software_creativo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://isidora-donoso-g.github.io/docs/software_creativo/</guid>
-      <description>Biografía y trabajos personales</description>
+      <guid>https://isidora-donoso-g.github.io/taller-ciudad-espacio/docs/midterm/</guid>
+      <description>Entrega mitad trimestre</description>
     </item>
     
     <item>
       <title>Ejemplo Shortcodes</title>
-      <link>https://isidora-donoso-g.github.io/docs/ejemplo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <link>https://isidora-donoso-g.github.io/taller-ciudad-espacio/docs/ejemplo/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://isidora-donoso-g.github.io/docs/ejemplo/</guid>
+      <guid>https://isidora-donoso-g.github.io/taller-ciudad-espacio/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
-      <title>ENCARGO 01</title>
-      <link>https://isidora-donoso-g.github.io/docs/encargo_01/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>Encargo 0</title>
+      <link>https://isidora-donoso-g.github.io/taller-ciudad-espacio/docs/encargo_0/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://isidora-donoso-g.github.io/docs/encargo_01/</guid>
-      <description>Composiciones de luz por medio de diferentes planos.</description>
+      <guid>https://isidora-donoso-g.github.io/taller-ciudad-espacio/docs/encargo_0/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
-      <title>ENCARGO 02</title>
-      <link>https://isidora-donoso-g.github.io/docs/encargo_02/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>Encargo 1</title>
+      <link>https://isidora-donoso-g.github.io/taller-ciudad-espacio/docs/encargo_1/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://isidora-donoso-g.github.io/docs/encargo_02/</guid>
-      <description>Composiciones de luz en movimiento.</description>
+      <guid>https://isidora-donoso-g.github.io/taller-ciudad-espacio/docs/encargo_1/</guid>
+      <description>Propuesta de problematica</description>
     </item>
     
     <item>
-      <title>ENCARGO 03</title>
-      <link>https://isidora-donoso-g.github.io/docs/encargo_03/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>Encargo 2</title>
+      <link>https://isidora-donoso-g.github.io/taller-ciudad-espacio/docs/encargo_2/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://isidora-donoso-g.github.io/docs/encargo_03/</guid>
-      <description>Volumenes de luz en movmiemiento.</description>
+      <guid>https://isidora-donoso-g.github.io/taller-ciudad-espacio/docs/encargo_2/</guid>
+      <description>Avance láminas sobre problematica</description>
     </item>
     
     <item>
-      <title>ENCARGO 04</title>
-      <link>https://isidora-donoso-g.github.io/docs/encargo_04/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>Encargo 3</title>
+      <link>https://isidora-donoso-g.github.io/taller-ciudad-espacio/docs/encargo_3/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://isidora-donoso-g.github.io/docs/encargo_04/</guid>
-      <description>Proyecto visual del proceso de creación de volúmenes de luz.</description>
-    </item>
-    
-    <item>
-      <title>ENCARGO 05</title>
-      <link>https://isidora-donoso-g.github.io/docs/encargo_05/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://isidora-donoso-g.github.io/docs/encargo_05/</guid>
-      <description>Tutoriales Fusion 360 - Modelado por medio de Sketch.</description>
-    </item>
-    
-    <item>
-      <title>ENCARGO 06</title>
-      <link>https://isidora-donoso-g.github.io/docs/encargo_06/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://isidora-donoso-g.github.io/docs/encargo_06/</guid>
-      <description>Ejericicio de diseño generativo en Fusion 360.</description>
-    </item>
-    
-    <item>
-      <title>ENCARGO 07</title>
-      <link>https://isidora-donoso-g.github.io/docs/encargo_07/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://isidora-donoso-g.github.io/docs/encargo_07/</guid>
-      <description>Ejericicio de piping en Fusion.</description>
-    </item>
-    
-    <item>
-      <title>ENCARGO 08</title>
-      <link>https://isidora-donoso-g.github.io/docs/encargo_08/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://isidora-donoso-g.github.io/docs/encargo_08/</guid>
-      <description>Propuestas de problemáticas a escala urbana con electromovilidad.</description>
-    </item>
-    
-    <item>
-      <title>ENCARGO 09</title>
-      <link>https://isidora-donoso-g.github.io/docs/encargo_09/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://isidora-donoso-g.github.io/docs/encargo_09/</guid>
-      <description>Avance Lunes 03-05 y pasos a buscar para siguiente entrega.</description>
-    </item>
-    
-    <item>
-      <title>ENCARGO 10</title>
-      <link>https://isidora-donoso-g.github.io/docs/encargo_10/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://isidora-donoso-g.github.io/docs/encargo_10/</guid>
-      <description>Tutorial Fusion modelado de una superficie.</description>
-    </item>
-    
-    <item>
-      <title>ENCARGO 11</title>
-      <link>https://isidora-donoso-g.github.io/docs/encargo_11/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://isidora-donoso-g.github.io/docs/encargo_11/</guid>
-      <description>Avance Lunes 10-05</description>
-    </item>
-    
-    <item>
-      <title>EXAMEN - TU PUNTO</title>
-      <link>https://isidora-donoso-g.github.io/docs/examen/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://isidora-donoso-g.github.io/docs/examen/</guid>
-      <description>EXAMEN TU PUNTO</description>
+      <guid>https://isidora-donoso-g.github.io/taller-ciudad-espacio/docs/encargo_3/</guid>
+      <description>Encargo de dibujo</description>
     </item>
     
     <item>
       <title>Ejemplos Markdown</title>
-      <link>https://isidora-donoso-g.github.io/docs/markdown/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <link>https://isidora-donoso-g.github.io/taller-ciudad-espacio/docs/markdown/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://isidora-donoso-g.github.io/docs/markdown/</guid>
+      <guid>https://isidora-donoso-g.github.io/taller-ciudad-espacio/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
